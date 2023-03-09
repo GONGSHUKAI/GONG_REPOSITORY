@@ -1,1 +1,1 @@
-# GONG-s-NOTE
+Welcome to Gong's Git!
